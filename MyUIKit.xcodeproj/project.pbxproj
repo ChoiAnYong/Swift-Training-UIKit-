@@ -15,6 +15,7 @@
 		AD3A95682AEEABF300813BA3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD3A95662AEEABF300813BA3 /* Main.storyboard */; };
 		AD3A956A2AEEABF400813BA3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD3A95692AEEABF400813BA3 /* Assets.xcassets */; };
 		AD3A956D2AEEABF400813BA3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD3A956B2AEEABF400813BA3 /* LaunchScreen.storyboard */; };
+		AD8013F52AF289E90085686F /* TodoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8013F42AF289E90085686F /* TodoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		AD3A95692AEEABF400813BA3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AD3A956C2AEEABF400813BA3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AD3A956E2AEEABF400813BA3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AD8013F42AF289E90085686F /* TodoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,10 +67,11 @@
 				AD3A95642AEEABF300813BA3 /* ViewController.swift */,
 				AD2D76422AF130DF0018A70A /* MyViewController.swift */,
 				AD3A95662AEEABF300813BA3 /* Main.storyboard */,
+				AD8013F42AF289E90085686F /* TodoViewController.swift */,
+				AD2D76442AF148EB0018A70A /* MyTableViewController.swift */,
 				AD3A95692AEEABF400813BA3 /* Assets.xcassets */,
 				AD3A956B2AEEABF400813BA3 /* LaunchScreen.storyboard */,
 				AD3A956E2AEEABF400813BA3 /* Info.plist */,
-				AD2D76442AF148EB0018A70A /* MyTableViewController.swift */,
 			);
 			path = MyUIKit;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 				AD3A95612AEEABF300813BA3 /* AppDelegate.swift in Sources */,
 				AD2D76432AF130DF0018A70A /* MyViewController.swift in Sources */,
 				AD2D76452AF148EB0018A70A /* MyTableViewController.swift in Sources */,
+				AD8013F52AF289E90085686F /* TodoViewController.swift in Sources */,
 				AD3A95632AEEABF300813BA3 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
