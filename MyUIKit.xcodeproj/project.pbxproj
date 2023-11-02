@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		AD2D76432AF130DF0018A70A /* MyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2D76422AF130DF0018A70A /* MyViewController.swift */; };
 		AD2D76452AF148EB0018A70A /* MyTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2D76442AF148EB0018A70A /* MyTableViewController.swift */; };
+		AD33A05D2AF3B96E005D7DB0 /* GreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD33A05C2AF3B96E005D7DB0 /* GreenViewController.swift */; };
+		AD33A05F2AF3B9D2005D7DB0 /* IndigoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD33A05E2AF3B9D2005D7DB0 /* IndigoViewController.swift */; };
 		AD3A95612AEEABF300813BA3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3A95602AEEABF300813BA3 /* AppDelegate.swift */; };
 		AD3A95632AEEABF300813BA3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3A95622AEEABF300813BA3 /* SceneDelegate.swift */; };
 		AD3A95652AEEABF300813BA3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3A95642AEEABF300813BA3 /* ViewController.swift */; };
@@ -21,6 +23,8 @@
 /* Begin PBXFileReference section */
 		AD2D76422AF130DF0018A70A /* MyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyViewController.swift; sourceTree = "<group>"; };
 		AD2D76442AF148EB0018A70A /* MyTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewController.swift; sourceTree = "<group>"; };
+		AD33A05C2AF3B96E005D7DB0 /* GreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreenViewController.swift; sourceTree = "<group>"; };
+		AD33A05E2AF3B9D2005D7DB0 /* IndigoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndigoViewController.swift; sourceTree = "<group>"; };
 		AD3A955D2AEEABF300813BA3 /* MyUIKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyUIKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD3A95602AEEABF300813BA3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AD3A95622AEEABF300813BA3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -72,6 +76,8 @@
 				AD3A95692AEEABF400813BA3 /* Assets.xcassets */,
 				AD3A956B2AEEABF400813BA3 /* LaunchScreen.storyboard */,
 				AD3A956E2AEEABF400813BA3 /* Info.plist */,
+				AD33A05C2AF3B96E005D7DB0 /* GreenViewController.swift */,
+				AD33A05E2AF3B9D2005D7DB0 /* IndigoViewController.swift */,
 			);
 			path = MyUIKit;
 			sourceTree = "<group>";
@@ -153,6 +159,8 @@
 				AD2D76452AF148EB0018A70A /* MyTableViewController.swift in Sources */,
 				AD8013F52AF289E90085686F /* TodoViewController.swift in Sources */,
 				AD3A95632AEEABF300813BA3 /* SceneDelegate.swift in Sources */,
+				AD33A05F2AF3B9D2005D7DB0 /* IndigoViewController.swift in Sources */,
+				AD33A05D2AF3B96E005D7DB0 /* GreenViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
